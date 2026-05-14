@@ -1,4 +1,4 @@
-# LangChain ReAct Agent 簡易ガイド（新式 vs 旧式）
+# LangChain ReAct Agent を作ってみる（新式 vs 旧式）
 
 ## はじめに
 
